@@ -12,10 +12,6 @@ This Weather App allows users to enter a city name and retrieve the current weat
 - Submit button to fetch and display weather information.
 - Displays city name, temperature in Celsius, weather conditions, and wind speed.
 
-## Screenshots
-
-Include screenshots or GIFs of your application in this section to showcase its appearance and functionality.
-
 ## Getting Started
 
 ### Prerequisites
