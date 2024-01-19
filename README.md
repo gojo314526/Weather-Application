@@ -31,16 +31,17 @@ git clone https://github.com/your-username/WeatherApp.git
 cd WeatherApp
 ```
 
-1. Open index.html in your preferred web browser.
+1. Open `index.html` in your preferred web browser.
 
-1. Enter a city name in the input field and click the "Submit" button.
+1. Enter a city name in the input field and click the `Submit` button.
 
 ## Usage
 - Enter the name of the city you want to check the weather for.
 - Click the `Submit` button to fetch and display weather information.
 
 ## Built With
-- HTML, CSS
+- HTML
+- CSS
 - JavaScript
 - Bootstrap - Front-end framework
 - OpenWeatherMap API - Weather data API
