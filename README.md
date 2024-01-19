@@ -37,7 +37,7 @@ cd WeatherApp
 
 ## Usage
 - Enter the name of the city you want to check the weather for.
-- Click the "Submit" button to fetch and display weather information.
+- Click the `Submit` button to fetch and display weather information.
 
 ## Built With
 - HTML, CSS
