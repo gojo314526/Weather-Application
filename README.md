@@ -23,7 +23,7 @@ This Weather App allows users to enter a city name and retrieve the current weat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/WeatherApp.git
+git clone https://github.com/gojo314526/Weather-Application.git
 cd WeatherApp
 ```
 
