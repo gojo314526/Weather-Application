@@ -5,7 +5,7 @@ var descrip = document.getElementById("description");
 var temp = document.getElementById("temp");
 var wind = document.getElementById("wind");
 
-apik = "Put your API key here";
+apik = "API key";
 function convertion(val) {
   return (val - 273).toFixed(2);
 }
